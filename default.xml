@@ -496,5 +496,6 @@
 
   <include name="snippets/rr-n.xml" />
   <include name="snippets/cm.xml" />
+  <include name="snippets/rr-n-oms.xml" />
 
 </manifest>
